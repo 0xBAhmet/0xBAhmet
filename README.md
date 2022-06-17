@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @0x10BAhmetB
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Python, C, Bash
+- 👋 All my Python projects from first semester at university
+- 👀 
+- 🌱 Python
 
 <!---
 0xBAhmet/0xBAhmet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
